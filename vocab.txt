@@ -1,3 +1,20 @@
 essen-to eat
 gehen-to go
-newvocab-new
+dauern-to last
+geschehen-to happen
+versuchen-to try
+vorstellen-to introduce
+anfangen-to begin
+bedienen-to serve
+befehlen-to order (command)
+gelingen-to succeed
+emfehlen-to reccomend
+retten-to save/rescue
+bestellen-to order (food)
+aufhören-to stop
+wechseln-to change
+hoffen-to hope
+nennen-to name
+schauen-to look
+scheinen-to seem
+wählen-to choose
