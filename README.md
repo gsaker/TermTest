@@ -4,7 +4,8 @@ Written in Python
 To Use:
 Add the vocab you would like to be tested on in the following format to vocab.txt
 
-term1-definition1 \n
+term1-definition1
+
 term2-definition2
 
 - Add support for not repeating questions in test
