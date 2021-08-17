@@ -18,3 +18,20 @@ nennen-to name
 schauen-to look
 scheinen-to seem
 wählen-to choose
+sich beeilen-to hurry
+hineingehen-to enter
+ausleihen-to lend
+bedauern-to regret
+sich erinnern-to remember
+vergeben-to forgive
+versprechen-to promise
+erklären-to explain
+erzählen-to tell
+beschleißen-to decide
+bevorzugen-to prefer
+sich entscheiden-to decide
+fehlen-to be missing
+sich freuen auf-to look forward to
+gefallen-to please
+vermeiden-to avoid
+vorhaben-to intend
