@@ -8,6 +8,8 @@ term1-definition1
 
 term2-definition2
 
+Roadmap: 
+
 - Add support for not repeating questions in test
 - Add support for not allowing more questions than are in vocab list
 - Add suport for sections in vocab list
